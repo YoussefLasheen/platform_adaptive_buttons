@@ -1,8 +1,8 @@
-name: flutter_adaptive_button
+name: platform_adaptive_buttons
 description: "A Flutter package that provides a custom button that adapts to the platform's design guidelines."
 version: 0.0.1
-repository: https://github.com/YoussefLasheen/flutter_adaptive_button
-issue_tracker: https://github.com/YoussefLasheen/flutter_adaptive_button/issues
+repository: https://github.com/YoussefLasheen/platform_adaptive_buttons
+issue_tracker: https://github.com/YoussefLasheen/platform_adaptive_buttons/issues
 
 environment:
   sdk: ^3.5.3

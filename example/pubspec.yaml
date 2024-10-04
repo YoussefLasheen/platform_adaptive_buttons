@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_adaptive_button: 
+  platform_adaptive_buttons: 
     path: ../
 dev_dependencies:
   flutter_test:

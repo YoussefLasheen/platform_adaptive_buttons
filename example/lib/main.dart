@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_adaptive_button/flutter_adaptive_button.dart';
+import 'package:platform_adaptive_buttons/platform_adaptive_buttons.dart';
 
 void main() {
   runApp(const MainApp());
