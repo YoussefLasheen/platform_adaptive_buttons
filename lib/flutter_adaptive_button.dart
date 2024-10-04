@@ -1,0 +1,1 @@
+library flutter_adaptive_button;
