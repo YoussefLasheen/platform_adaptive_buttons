@@ -1,4 +1,4 @@
-library flutter_adaptive_button;
+library platform_adaptive_buttons;
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
